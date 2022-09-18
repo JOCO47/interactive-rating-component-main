@@ -33,7 +33,7 @@ main{
     position : absolute;
     align-items: center;
     transform: scale(0.1);
-    transition: 0.5s;
+    transition: 0.3s;
     visibility: hidden;
 }
 
