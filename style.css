@@ -62,7 +62,7 @@ p{
     transition: 0.2s;
 }
 .btn:hover{
-    background: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 100%);
     color: hsl(25, 97%, 53%);
     cursor: pointer;
 }
@@ -92,13 +92,13 @@ button{
 }
 
 .rating .circle:hover{
-    background:hsl(217, 12%, 63%);
+    background-color:hsl(217, 12%, 63%);
     color:hsl(0, 0%, 100%);
     cursor: pointer;
 }
 
 .selected{
-    background: hsl(25, 97%, 53%);
+    background-color: hsl(25, 97%, 53%);
     color:hsl(0, 0%, 100%);
 }
 
@@ -106,7 +106,7 @@ button{
     padding: 0.5rem 1.5rem 0.5rem 1.5rem;
     display: flex;
     flex-direction: row;
-    background: hsl(210, 32%, 22%);
+    background-color: hsl(210, 32%, 22%);
     color:hsl(25, 97%, 53%);
     border-radius: 1rem;
     font-weight: 400;
